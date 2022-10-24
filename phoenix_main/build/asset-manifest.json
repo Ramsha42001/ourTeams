@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d47a03c4.css",
+    "main.js": "/static/js/main.820855f4.js",
+    "static/media/y20.png": "/static/media/y20.20d873b8768efcea0f0e.png",
+    "static/media/QuarksDivisonHead2.png": "/static/media/QuarksDivisonHead2.23fac6119f4274a821f2.png",
+    "static/media/HardwareDivisonHead2.png": "/static/media/HardwareDivisonHead2.83604684035f460a5265.png",
+    "static/media/SoftwareDivisonHead2.png": "/static/media/SoftwareDivisonHead2.23fb316a865648a9ddef.png",
+    "static/media/SoftwareDivisonHead3.png": "/static/media/SoftwareDivisonHead3.37c9ce46a8d4b75246dc.png",
+    "static/media/coordinator1.png": "/static/media/coordinator1.fef8b4acf34c15c5c0f1.png",
+    "static/media/QuarksDivisonHead3.png": "/static/media/QuarksDivisonHead3.03cc09eaf985c9da7f32.png",
+    "static/media/coordinator2.png": "/static/media/coordinator2.bd0d2d4281f68359a049.png",
+    "static/media/QuarksDivisonHead1.png": "/static/media/QuarksDivisonHead1.08e322f49e18ce1d0b02.png",
+    "static/media/SoftwareDivisonHead1.png": "/static/media/SoftwareDivisonHead1.f6856d7117eabd387ee6.png",
+    "static/media/HardwareDivisonHead1.png": "/static/media/HardwareDivisonHead1.999bddd4f55f75dd7db7.png",
+    "index.html": "/index.html",
+    "main.d47a03c4.css.map": "/static/css/main.d47a03c4.css.map",
+    "main.820855f4.js.map": "/static/js/main.820855f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47a03c4.css",
+    "static/js/main.820855f4.js"
+  ]
+}

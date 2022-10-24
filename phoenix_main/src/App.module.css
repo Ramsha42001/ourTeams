@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+.icons 
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.iconStyle
+{
+    color: grey;
+}
+ .images 
+ {
+    height: 150px;
+width: 150px;
+position: absolute;
+top: -50px;
+    left: 84px;
+ }
+
+.imageDiv 
+{
+   position: relative;
+}
+
+
+.heading
+{
+width: 245px;
+height: 59px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+margin: auto;
+
+
+color: #323232;
+}
+
+
+.teamHeading 
+{
+
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-transform: capitalize;
+
+color: #323232;
+
+opacity: 0.7;
+}
+
+.teamname {
+    padding-top: 110px;
+    display: flex;
+    justify-content: center;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+text-transform: capitalize;
+
+color: #323232;
+
+opacity: 0.7;
+}
+.coordinators
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.coordinatorsHeading
+{
+    text-align: center;
+height: 39px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+text-transform: capitalize;
+
+color: #323232;
+
+opacity: 0.8;
+margin: auto;
+}
+
+.headingdiv
+{
+    margin: auto;
+}
+
+.mainImage
+{
+width: 700px;
+height: 313px;
+border-radius: 10px;
+justify-content: center;
+align-items: center;
+}
+
+
+.mainDiv
+{
+    display: flex;
+   height: 100vh;
+   width: 100px;
+   justify-content: center;
+   max-width: fit-content;
+}
+
+.yearLink
+{
+    float: left;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.detailsdiv
+{
+    width: 290px;
+height: 191px;
+background: rgba(50, 50, 50, 0.07);
+border-radius: 10px;
+margin: 20px;
+}
+
+.hr 
+{
+    width: 950px;
+height: 0px;
+
+border: 1px solid rgba(50, 50, 50, 0.2);
+}
+
+.navlist 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+}
+
+.list 
+{
+    margin: 7px;
+    width: 29px;
+height: 17px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+
+color: #323232;
+
+opacity: 0.7;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.mainImage 
+{
+    width: 878px;
+border-radius: 10px;
+    height: 413px;
+    background-color: grey;
+    margin: auto;
+}
